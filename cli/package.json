@@ -20,19 +20,19 @@
     "test": "jest"
   },
   "engines": {
-    "node": "14.9.0"
+    "node": "14.13.1"
   },
   "devDependencies": {
     "@types/chalk": "0.4.31",
     "@types/inquirer": "6.5.0",
     "@types/jest": "25.2.3",
     "@types/js-yaml": "3.12.5",
-    "@types/node": "12.12.55",
+    "@types/node": "12.12.67",
     "@types/node-emoji": "1.8.1",
     "@types/through": "0.0.30",
-    "@types/yargs": "15.0.5",
+    "@types/yargs": "15.0.8",
     "jest": "26.4.2",
-    "lint-staged": "10.3.0",
+    "lint-staged": "10.4.0",
     "ncp": "2.0.0",
     "rimraf": "3.0.2",
     "ts-jest": "25.5.1",
